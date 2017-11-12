@@ -75,6 +75,8 @@ alias gcam="git commit -am"
 alias gcsam="git commit -S -am"
 alias gstd="git stash drop"
 alias gstl="git stash list"
+alias gu="git-up"
+
 
 case $OSTYPE in
   darwin*)
